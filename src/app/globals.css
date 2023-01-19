@@ -1,0 +1,98 @@
+/*!!!! ATOMS STYLES !!! */
+
+/*FONT IMPORT*/
+@import url('https://fonts.googleapis.com/css2?family=Thasadith&display=swap');
+
+/*Brands And Styles Atom */
+.brandsAndStyles {
+  height: 50px;
+  width: 11em;
+  background-color: #fff;
+  border-radius: 50px;
+  border: 2.5px solid rgb(168, 162, 162);
+  color: rgb(158, 148, 148);
+  font-family: 'Thasadith', sans-serif;
+  font-weight: 600;
+  cursor: pointer;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/*Arrow Atom Style */
+.ArrowAtom_cirle {
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+  border: 5px solid #2359c5;
+  background-color: white;
+  cursor: pointer;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/*Likes Atom Style*/
+.likeAtom__like {
+  height: 70px;
+  width: 70px;
+  border-radius: 50%;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.like1 {
+  background-color: #d9d9d9;
+  margin-bottom: 1rem;
+  cursor: pointer;
+}
+.like2 {
+  background-color: #ff64bc;
+  cursor: pointer;
+}
+
+/*Next Buttons Style*/
+.nextButtonsAtom {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+.nextButtonsAtom_button {
+  width: 10rem;
+  height: 3.5rem;
+  border-radius: 30px;
+  font-size: 18px;
+  background-color: #1b4db1;
+  color: white;
+  border: none;
+  font-family: 'Thasadith', sans-serif;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+/*Seach Atom Style*/
+.searchAtom {
+  width: 20%;
+  height: 45px;
+  border-radius: 30px;
+  padding: 0 1rem;
+  background-color: white;
+  cursor: pointer;
+  border: 1px solid black;
+  font-size: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.searchAtom_input {
+  border: none;
+  width: 80%;
+  height: 90%;
+  outline: none;
+}
+.searchAtom__img {
+  height: 30px;
+}
