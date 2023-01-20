@@ -22,4 +22,4 @@ PLEASE HAVE THIS INFORMATION INTO ACCOUNT WHILE WORKING WITH THIS PROJECT:
 // style: Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)
 // test: Adding missing tests or correcting existing tests
 
-<---PLEASE FEEL FREE TO ADD ANY ADITIONAL INFORMATION RELEVANT TO YOUR TEAMMATES --->
+<---PLEASE FEEL FREE TO ADD ANY ADDITIONAL INFORMATION RELEVANT TO YOUR TEAMMATES --->
