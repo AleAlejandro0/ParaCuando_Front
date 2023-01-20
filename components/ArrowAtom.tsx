@@ -6,7 +6,7 @@ const ArrowAtom = () => {
   return (
     <div className="ArrowAtom">
       <div className="ArrowAtom_cirle">
-        <img src={ArrowImage} alt="Arrow image" />
+        <img src={ArrowImage[0]} alt="Arrow image" />
       </div>
     </div>
   );
